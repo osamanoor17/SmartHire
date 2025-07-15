@@ -20,7 +20,8 @@
 ## 🖼️ Demo
 
 
-![SmartHire UI](https://youtu.be/y6ij_e4VDdA?si=n0TukrwHsXMKbySW)
+[![SmartHire UI](https://img.youtube.com/vi/y6ij_e4VDdA/0.jpg)](https://youtu.be/y6ij_e4VDdA)
+
 
 ---
 
